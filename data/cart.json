@@ -1,0 +1,17 @@
+[
+  {
+    "Ncarrito": 1,
+    "precio_final": 60,
+    "codigo": "hln"
+  },
+  {
+    "Ncarrito": 2,
+    "precio_final": 90,
+    "codigo": "lpm"
+  },
+  {
+    "Ncarrito": 3,
+    "precio_final": 120,
+    "codigo": "kkj"
+  }
+]
